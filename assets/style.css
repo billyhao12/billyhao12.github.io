@@ -1,9 +1,3 @@
-/*
-Each of these CSS elements is associated with an HTML Element, Class, or ID.
-Flip between this CSS file and the HTML to see how things line up.
-Experiment with deleting lines of code from the CSS to see how it affects the web page when you refresh in the browser.
-*/
-
 body {
   /* Box-model */
   padding: 0;
@@ -78,6 +72,5 @@ a {
   height: 200px;
 
   /* Positioning */
-
   margin-right: 20px;
 }
